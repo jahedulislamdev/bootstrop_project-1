@@ -1,0 +1,55 @@
+*{
+ background: fixed;
+}
+#text1{
+      font-size: 1.25rem;
+      margin-bottom: 30px ;
+
+
+}
+#home-section{
+      background-image: url(/img/home.jpg);
+      background-position: center;
+      background-size: cover;
+      background-attachment: fixed;
+      color: #fff;
+      min-height: 700px;
+      .dark-overlay{
+            background: rgba(0,0, 0, .7);
+      }
+}
+#home-section .fa{
+      color: #008ed6;
+      font-size: 30px;
+      padding: 0px;
+      border-radius: 5px;
+}
+#explore-section .fa{
+      font-size: 40px;
+      background: #fbfafa;
+      color: #080808;
+      border-radius: 5px;
+      
+}
+.home-inner{
+      padding-top: 150px;
+      padding-bottom: 50px;
+}
+.create-inner .fa{
+      color: #008ed6;
+      font-size: 40px;
+      padding: 0px;
+      border-radius: 5px;
+}
+.create-inner{
+      padding-bottom: 150px ;
+}
+#share-section .fa{
+      color: #008ed6;
+      font-size: 40px;
+      padding: 0px;
+      border-radius: 5px;
+}
+#primarycol{
+      background-color: #2c5d91 ;
+  }
